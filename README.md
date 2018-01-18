@@ -1,5 +1,7 @@
 # 《禅与 Objective-C 编程艺术》 GitBook
 
+> 本开源书 forked from [《禅与 Objective-C 编程艺术》](https://github.com/yourtion/objc-zen-book-cn)，作者为 [yourtion](https://github.com/yourtion)，欢迎大家 star 原作者的 [repo](https://github.com/yourtion/objc-zen-book-cn)，以便获得最新更新，谢谢！
+
 ## Zen and the Art of the Objective-C Craftsmanship 中文翻译
 
 ![](./images/zen-logo-thumb.png)
